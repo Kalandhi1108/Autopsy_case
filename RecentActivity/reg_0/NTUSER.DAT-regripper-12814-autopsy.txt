@@ -1,0 +1,61 @@
+<logon>
+<mtime>Mon Jul 21 01:17:56 2008</mtime><artifacts>
+</artifacts></logon>
+----------------------------------------
+<recentdocs><mtime>Sun Jul 20 01:28:04 2008</mtime><artifacts>
+<doc name="Windows">m57biz.xls</doc>
+<doc name="Windows">tag-cloud.jpg</doc>
+<doc name="Windows">My Pictures</doc>
+<doc name="Windows">t1soft.flipflops.jpg</doc>
+<doc name="Windows">LightBlueTop.gif</doc>
+</artifacts></recentdocs>
+----------------------------------------
+<runMRU>
+<mtime>Sun Jul 20 05:08:18 2008</mtime>
+<artifacts>
+<MRUList>a</MRUList>
+<MRU>a   taskmgr\1</MRU>
+</artifacts>
+</runMRU>
+----------------------------------------
+<shellfolders>
+<mtime>Sun Jul  6 06:11:37 2008</mtime>
+<artifacts>
+<shell name="AppData"> C:\Documents and Settings\Jean\Application Data</shell>
+<shell name="Cookies"> C:\Documents and Settings\Jean\Cookies</shell>
+<shell name="Desktop"> C:\Documents and Settings\Jean\Desktop</shell>
+<shell name="Favorites"> C:\Documents and Settings\Jean\Favorites</shell>
+<shell name="NetHood"> C:\Documents and Settings\Jean\NetHood</shell>
+<shell name="Personal"> C:\Documents and Settings\Jean\My Documents</shell>
+<shell name="PrintHood"> C:\Documents and Settings\Jean\PrintHood</shell>
+<shell name="Recent"> C:\Documents and Settings\Jean\Recent</shell>
+<shell name="SendTo"> C:\Documents and Settings\Jean\SendTo</shell>
+<shell name="Start Menu"> C:\Documents and Settings\Jean\Start Menu</shell>
+<shell name="Templates"> C:\Documents and Settings\Jean\Templates</shell>
+<shell name="Programs"> C:\Documents and Settings\Jean\Start Menu\Programs</shell>
+<shell name="Startup"> C:\Documents and Settings\Jean\Start Menu\Programs\Startup</shell>
+<shell name="Local Settings"> C:\Documents and Settings\Jean\Local Settings</shell>
+<shell name="Local AppData"> C:\Documents and Settings\Jean\Local Settings\Application Data</shell>
+<shell name="Cache"> C:\Documents and Settings\Jean\Local Settings\Temporary Internet Files</shell>
+<shell name="History"> C:\Documents and Settings\Jean\Local Settings\History</shell>
+<shell name="My Pictures"> C:\Documents and Settings\Jean\My Documents\My Pictures</shell>
+<shell name="Fonts"> C:\WINDOWS\Fonts</shell>                
+<shell name="My Music"> C:\Documents and Settings\Jean\My Documents\My Music</shell>
+<shell name="CD Burning"> C:\Documents and Settings\Jean\Local Settings\Application Data\Microsoft\CD Burning</shell>
+<shell name="My Video"> </shell>                                
+
+</artifacts></shellfolders>
+----------------------------------------
+----------------------------------------
+<office>
+<mtime> Sun Jul  6 07:37:38 2008</mtime>
+<artifacts>
+<Excel name="File1">C:\Documents and Settings\Jean\Desktop\m57biz.xls</Excel>
+</artifacts>
+</office>
+----------------------------------------
+<NtuserNetwork>
+<mtime></mtime>
+<artifacts>
+</artifacts></NtuserNetwork>
+----------------------------------------

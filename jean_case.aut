@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2025/08/09 18:21:46 (IST)</CreatedDate>
+  <ModifiedDate>2025/08/09 18:21:47 (IST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.21.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.21.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>jean_case_20250809_182146</Name>
+    <DisplayName>jean_case</DisplayName>
+    <Number/>
+    <Examiner/>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>

@@ -1,0 +1,1839 @@
+***Hive Check***
+Hive is not dirty.
+
+acmru v.20080324
+- Gets contents of user's ACMru key
+
+ACMru - Search Assistant
+Software\Microsoft\Search Assistant\ACMru
+LastWrite Time Wed Jul 16 03:16:15 2008 (UTC)
+5001 [Thu Jul 17 17:25:11 2008 (UTC)]
+	000 -> lyrics "you're the one I've waited for forever"
+	001 -> lyrics "and ever will my love for you keep growing strong"
+	002 -> monterey culinary
+	003 -> backspace conference august new york
+
+----------------------------------------
+adoberdr v.20150717
+(NTUSER.DAT) Gets user's Adobe Reader cRecentFiles values
+
+Adoberdr v.20150717
+Adobe Acrobat Reader version not found.
+----------------------------------------
+ahaha v.20131009
+(Software,NTUSER.DAT) Detect possible presence of ahaha malware
+
+No indicators found.
+----------------------------------------
+aim v.20080325
+(NTUSER.DAT) Gets info from the AOL Instant Messenger (not AIM) install
+
+Software\America Online\AOL Instant Messenger (TM)\CurrentVersion\Users not found.
+----------------------------------------
+aports v.20110204
+(NTUSER.DAT) Extracts the install path for SmartLine Inc. Active Ports.
+
+Software\SmartLine Vision\aports not found.
+
+----------------------------------------
+appassoc v.20190513
+- Gets contents of user's ApplicationAssociationToasts key
+
+Software\Microsoft\Windows\CurrentVersion\ApplicationAssociationToasts not found.
+----------------------------------------
+appcompatflags v.20130930
+(NTUSER.DAT, Software) Extracts AppCompatFlags for Windows.
+
+
+----------------------------------------
+appkeys v.20180920
+(NTUSER.DAT, Software) Extracts AppKeys entries.
+
+----------------------------------------
+applets v.20140723
+(NTUSER.DAT) Gets contents of user's Applets key
+
+Applets
+Software\Microsoft\Windows\CurrentVersion\Applets
+LastWrite Time Sun Jul  6 06:11:42 2008 (UTC)
+
+Software\Microsoft\Windows\CurrentVersion\Applets\Paint\Recent File List not found.
+----------------------------------------
+Software\Microsoft\IntelliPoint\AppSpecific not found.
+----------------------------------------
+Software\Ares not found.
+----------------------------------------
+arpcache v.20090413
+(NTUSER.DAT) Retrieves CurrentVersion\App Management\ARPCache entries
+
+Software\Microsoft\Windows\CurrentVersion\App Management\ARPCache not found.
+----------------------------------------
+attachmgr v.20130425
+(NTUSER.DAT) Checks user's keys that manage the Attachment Manager functionality
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Associations not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Attachments not found.
+
+----------------------------------------
+autoendtasks v.20081128
+(NTUSER.DAT) Automatically end a non-responsive task
+
+Control Panel\Desktop
+
+AutoEndTasks = 0
+----------------------------------------
+autorun v.20081212
+(NTUSER.DAT) Gets autorun settings
+
+NoDriveTypeAutoRun   0x91
+HonorAutorunSetting not found.
+
+Autorun settings in the HKLM hive take precedence over those in
+the HKCU hive.
+----------------------------------------
+bitbucket_user v.20091020
+(NTUSER.DAT) TEST - Get user BitBucket values
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket
+LastWrite Time Fri Jul 11 18:00:56 2008 (UTC)
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket has no subkeys.
+----------------------------------------
+brisv v.20130429
+(NTUSER.DAT) Detect artifacts of a Troj.Brisv.A infection
+
+Software\Microsoft\PIMSRV not found.
+----------------------------------------
+cached v.20150608
+(NTUSER.DAT) Gets cached Shell Extensions from NTUSER.DAT hive
+
+Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached
+LastWrite Time Mon Jul 21 01:17:43 2008 (UTC)
+
+Sun Jul  6 06:11:36 2008  First Load: {2559A1F4-21D7-11D4-BDAF-00C04F60B9F0} (IExtractIconW)
+Sun Jul  6 06:11:37 2008  First Load: {2559A1F5-21D7-11D4-BDAF-00C04F60B9F0} (IExtractIconW)
+Sun Jul  6 06:11:37 2008  First Load: {871C5380-42A0-1069-A2EA-08002B30309D} (IShellFolder)
+Mon Jul 21 01:17:43 2008  First Load: {2559A1F4-21D7-11D4-BDAF-00C04F60B9F0} (IShellFolder)
+Mon Jul 21 01:17:43 2008  First Load: {2559A1F5-21D7-11D4-BDAF-00C04F60B9F0} (IShellFolder)
+Sun Jul  6 06:11:38 2008  First Load: {7007ACC7-3202-11D1-AAD2-00805FC1270E} ({93F2F68C-1D1B-11D3-A30E-00C04F79ABD1})
+Sun Jul  6 07:49:28 2008  First Load: {2559A1F4-21D7-11D4-BDAF-00C04F60B9F0} ({00000000-0000-0000-C000-000000000046})
+Sun Jul  6 07:49:28 2008  First Load: {2559A1F4-21D7-11D4-BDAF-00C04F60B9F0} ({000214E8-0000-0000-C000-000000000046})
+Sun Jul  6 07:49:32 2008  First Load: {FF393560-C2A7-11CF-BFF4-444553540000} ({062E1261-A60E-11D0-82C2-00C04FD5AE38})
+Sun Jul  6 07:49:32 2008  First Load: {FF393560-C2A7-11CF-BFF4-444553540000} (IShellFolder)
+Sun Jul  6 07:50:40 2008  First Load: {3F30C968-480A-4C6C-862D-EFC0897BB84B} ({0000010B-0000-0000-C000-000000000046})
+Sun Jul  6 07:53:52 2008  First Load: {EB9B1153-3B57-4E68-959A-A3266BC3D7FE} ({0000010B-0000-0000-C000-000000000046})
+Sun Jul  6 07:54:08 2008  First Load: {E84FDA7C-1D6A-45F6-B725-CB260C236066} ({000214E8-0000-0000-C000-000000000046})
+Sun Jul  6 07:54:08 2008  First Load: {E84FDA7C-1D6A-45F6-B725-CB260C236066} (IDropTarget)
+Sun Jul  6 08:00:58 2008  First Load: {41E300E0-78B6-11CE-849B-444553540000} ({000214E9-0000-0000-C000-000000000046})
+Thu Jul 10 20:08:00 2008  First Load: {E211B736-43FD-11D1-9EFB-0000F8757FCD} (IDelegateFolder)
+Fri Jul 11 06:25:19 2008  First Load: {BD472F60-27FA-11CF-B8B4-444553540000} ({000214E8-0000-0000-C000-000000000046})
+Fri Jul 18 03:55:53 2008  First Load: {D20EA4E1-3957-11D2-A40B-0C5020524152} (IShellFolder)
+Fri Jul 18 03:55:53 2008  First Load: {D20EA4E1-3957-11D2-A40B-0C5020524153} (IShellFolder)
+Fri Jul 18 04:29:18 2008  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} ({0000010B-0000-0000-C000-000000000046})
+Fri Jul 18 04:32:03 2008  First Load: {67EA19A0-CCEF-11D0-8024-00C04FD75D13} ({00000000-0000-0000-C000-000000000046})
+Fri Jul 18 04:32:04 2008  First Load: {ECF03A33-103D-11D2-854D-006008059367} ({00000000-0000-0000-C000-000000000046})
+Fri Jul 18 04:32:04 2008  First Load: {40DD6E20-7C17-11CE-A804-00AA003CA9F6} ({00000000-0000-0000-C000-000000000046})
+Sat Jul 19 23:31:08 2008  First Load: {2559A1F5-21D7-11D4-BDAF-00C04F60B9F0} ({00000000-0000-0000-C000-000000000046})
+Sat Jul 19 23:31:08 2008  First Load: {2559A1F5-21D7-11D4-BDAF-00C04F60B9F0} ({000214E8-0000-0000-C000-000000000046})
+----------------------------------------
+cain v.20110204
+(NTUSER.DAT) Extracts details for Cain & Abel by oxid.it
+
+Software\Cain\Settings not found.
+
+----------------------------------------
+ccleaner v.20120128
+(NTUSER.DAT) Gets User's CCleaner Settings
+
+Software\Piriform\CCleaner does not exist.
+
+----------------------------------------
+cdstaginginfo v.20131118
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\CD Burning\StagingInfo not found.
+----------------------------------------
+clampi v.20091019
+(NTUSER.DAT) TEST - Checks for keys set by Trojan.Clampi PROT module
+
+Software\Microsoft\Internet Explorer\Main
+LastWrite Time Fri Jul 18 05:25:33 2008 (UTC)
+
+	Use FormSuggest = yes
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\AutoComplete not found.
+
+Software\Microsoft\Internet Account Manager\Accounts not found.
+
+The system does not appear to have been infected with the Trojan.Clampi
+PROT module.
+----------------------------------------
+clampitm v.20100624
+(NTUSER.DAT) Checks for IOCs for Clampi (per Trend Micro)
+
+ClampiTM plugin
+Software\Microsoft\Internet Explorer\Settings
+LastWrite Time Sun Jul  6 06:11:29 2008 (UTC)
+
+No Clampi values found.
+----------------------------------------
+cmdproc v.20190223
+(NTUSER.DAT) Autostart - get Command Processor\AutoRun value from NTUSER.DAT hive
+
+Software\Microsoft\Command Processor
+LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+AutoRun value not found.
+----------------------------------------
+----------------------------------------
+compdesc v.20080324
+(NTUSER.DAT) Gets contents of user's ComputerDescriptions key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComputerDescriptions not found.
+----------------------------------------
+controlpanel v.20080428
+(NTUSER.DAT) Look for RecentTask* values in ControlPanel key (Vista)
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel not found.
+----------------------------------------
+cortana v20150628 (Search terms from Cortana/search bar)
+----------------------------------------
+cpldontload v.20100116
+(NTUSER.DAT) Gets contents of user's Control Panel don't load key
+
+Control Panel\don't load
+LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+
+ncpa.cpl             No   
+odbccp32.cpl         No   
+----------------------------------------
+DDO v.20140414
+(NTUSER.DAT) Gets user's DeviceDisplayObjects key contents
+
+Software\Microsoft\Windows NT\CurrentVersion\DeviceDisplayObjects not found.
+----------------------------------------
+decaf v.20110210
+(NTUSER.DAT) Extracts the EULA value for DECAF.
+
+Software\DECAFme not found.
+
+----------------------------------------
+dependency_walker v.20110204
+(NTUSER.DAT) Extracts Recent File List for Dependency Walker.
+
+Software\Microsoft\Dependency Walker\Recent File List not found.
+
+----------------------------------------
+disablemru v.20180807
+- Checks settings disabling user's MRUs
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32 not found.
+----------------------------------------
+domains v.20100116
+(NTUSER.DAT) Gets contents Internet Settings\ZoneMap\Domains key
+
+Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap
+LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+
+Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap has no subkeys.
+----------------------------------------
+environment v.20150910
+(NTUSER.DAT) Extracts user's Environment paths from NTUSER.DAT
+
+Environment
+Environment
+LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+
+TEMP -> %USERPROFILE%\Local Settings\Temp
+TMP -> %USERPROFILE%\Local Settings\Temp
+
+----------------------------------------
+Eraser v.20180708
+(NTUSER.DAT) Gets User's Eraser Settings
+
+Software\Eraser\Eraser 6 does not exist.
+
+----------------------------------------
+fileexts v.20080818
+(NTUSER.DAT) Get user FileExts values
+
+fileexts
+Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts
+
+----------------------------------------
+filehistory v.20120620
+(NTUSER.DAT) Gets filehistory settings
+
+Software\Microsoft\Windows\CurrentVersion\FileHistory not found.
+----------------------------------------
+foxitrdr v.20170326
+(NTUSER.DAT) Get values from the user's Foxit Reader key
+
+Foxit Reader version not found.
+----------------------------------------
+gthist v.20100218
+(NTUSER.DAT) Gets Google Toolbar Search History
+
+Software\Google\NavClient\1.1\History not found.
+----------------------------------------
+gtwhitelist v.20100218
+(NTUSER.DAT) Gets Google Toolbar whitelist values
+
+Software\Google\Google Toolbar\4.0\whitelist not found.
+----------------------------------------
+haven_and_hearth v.20110204
+(NTUSER.DAT) Extracts the username and savedtoken for Haven & Hearth.
+
+Software\JavaSoft\Prefs\haven not found.
+
+----------------------------------------
+identities v.20151211
+(NTUSER.DAT) Extracts values from Identities key; NTUSER.DAT
+
+Identities
+LastWrite Time Sun Jul  6 06:11:32 2008 (UTC)
+
+Identity Ordinal                         1                             
+Migrated5                                1                             
+Last Username                            Main Identity                 
+Last User ID                             {393A7103-520A-49A4-AAF9-92CC6832AD02}
+Identity Login                           622675                        
+Default User ID                          {393A7103-520A-49A4-AAF9-92CC6832AD02}
+
+----------------------------------------
+iejava v.20130429
+(NTUSER.DAT) Checks NTUSER for status of kill bit for IE Java ActiveX control
+
+Software\Microsoft\Windows\CurrentVersion\Ext\Settings\{8AD9C840-044E-11D1-B3E9-00805F499D93} not found.
+----------------------------------------
+ie_main v.20091019
+(NTUSER.DAT) Gets values beneath user's Internet Explorer\Main key
+
+Software\Microsoft\Internet Explorer\Main
+LastWrite Time Fri Jul 18 05:25:33 2008 (UTC)
+
+NoUpdateCheck                        1                   
+NotifyDownloadComplete               yes                 
+ShowedCheckBrowser                   Yes                 
+Local Page                           C:\WINDOWS\system32\blank.htm
+NoJITSetup                           1                   
+Do404Search                          1                   
+Show_ToolBar                         yes                 
+Save_Session_History_On_Exit         no                  
+Search Page                          http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=iesearch
+Show_FullURL                         no                  
+Cache_Update_Frequency               Once_Per_Session    
+Show_URLinStatusBar                  yes                 
+Show_URLToolBar                      yes                 
+Use FormSuggest                      yes                 
+Display Inline Images                yes                 
+FullScreen                           no                  
+Show_ChannelBand                     No                  
+Anchor Underline                     yes                 
+Show_StatusBar                       yes                 
+Use_DlgBox_Colors                    yes                 
+Check_Associations                   No                  
+Start Page                           http://www.microsoft.com/isapi/redir.dll?prd=ie&pver=6&ar=msnhome
+Disable Script Debugger              yes                 
+----------------------------------------
+ie_settings v.20130731
+(NTUSER.DAT) Gets important user IE settings
+
+Software\Microsoft\Windows\CurrentVersion\Internet Settings
+LastWrite Time Sat Jul 19 23:42:43 2008 (UTC)
+
+User Agent = Mozilla/4.0 (compatible; MSIE 6.0; Win32)
+DaysToKeep value not found - default is 20 days
+----------------------------------------
+ie_zones v.20140611
+(NTUSER.DAT,Software) Get IE Zone settings
+
+Software\Microsoft\Windows\CurrentVersion\Internet Settings
+LastWrite Time Sat Jul 19 23:42:43 2008 (UTC)
+
+Zone 0:  My Computer - Your computer
+LastWrite: Sun Jul  6 06:11:29 2008
+  1001  0x00000000  Permitted
+  1004  0x00000000  Permitted
+  1200  0x00000000  Permitted
+  1201  0x00000001  Prompt
+  1206  0x00000000  Permitted
+  1400  0x00000000  Permitted
+  1402  0x00000000  Permitted
+  1405  0x00000000  Permitted
+  1406  0x00000000  Permitted
+  1407  0x00000000  Permitted
+  1601  0x00000000  Permitted
+  1604  0x00000000  Permitted
+  1605  0x00000000  Permitted
+  1606  0x00000000  Permitted
+  1607  0x00000000  Permitted
+  1608  0x00000000  Permitted
+  1609  0x00000001  Prompt
+  1800  0x00000000  Permitted
+  1802  0x00000000  Permitted
+  1803  0x00000000  Permitted
+  1804  0x00000000  Permitted
+  1805  0x00000000  Permitted
+  1806  0x00000000  Permitted
+  1807  0x00000000  Permitted
+  1808  0x00000000  Permitted
+  1809  0x00000003  Prohibited
+  1A00  0x00000000  Permitted
+  1A02  0x00000000  Permitted
+  1A03  0x00000000  Permitted
+  1A04  0x00000000  Permitted
+  1A05  0x00000000  Permitted
+  1A06  0x00000000  Permitted
+  1A10  0x00000000  Permitted
+  1C00  0x00020000  
+  1E05  0x00030000  
+  2100  0x00000000  Permitted
+  2101  0x00000003  Prohibited
+  2102  0x00000000  Permitted
+  2200  0x00000000  Permitted
+  2201  0x00000000  Permitted
+  2300  0x00000001  Prompt
+  2000  0x00000000  Permitted
+  1207  0x00000000  Permitted
+  180D  0x00000000  Permitted
+
+Zone 1:  Local intranet - This zone contains all Web sites that are on your organization's intranet.
+LastWrite: Sun Jul  6 06:11:29 2008
+  1001  0x00000001  Prompt
+  1004  0x00000003  Prohibited
+  1200  0x00000000  Permitted
+  1201  0x00000003  Prohibited
+  1206  0x00000000  Permitted
+  1400  0x00000000  Permitted
+  1402  0x00000000  Permitted
+  1405  0x00000000  Permitted
+  1406  0x00000001  Prompt
+  1407  0x00000000  Permitted
+  1601  0x00000000  Permitted
+  1604  0x00000000  Permitted
+  1605  0x00000000  Permitted
+  1606  0x00000000  Permitted
+  1607  0x00000000  Permitted
+  1608  0x00000000  Permitted
+  1609  0x00000001  Prompt
+  1800  0x00000001  Prompt
+  1802  0x00000000  Permitted
+  1803  0x00000000  Permitted
+  1804  0x00000001  Prompt
+  1805  0x00000000  Permitted
+  1806  0x00000000  Permitted
+  1807  0x00000000  Permitted
+  1808  0x00000000  Permitted
+  1809  0x00000003  Prohibited
+  1A00  0x00020000  
+  1A02  0x00000000  Permitted
+  1A03  0x00000000  Permitted
+  1A04  0x00000000  Permitted
+  1A05  0x00000000  Permitted
+  1A06  0x00000000  Permitted
+  1A10  0x00000000  Permitted
+  1C00  0x00020000  
+  1E05  0x00020000  
+  2100  0x00000000  Permitted
+  2101  0x00000000  Permitted
+  2102  0x00000000  Permitted
+  2200  0x00000000  Permitted
+  2201  0x00000000  Permitted
+  2300  0x00000001  Prompt
+  2000  0x00000000  Permitted
+  1207  0x00000000  Permitted
+  180D  0x00000000  Permitted
+
+Zone 2:  Trusted sites - This zone contains Web sites that you trust not to damage your computer or data.
+LastWrite: Sun Jul  6 06:11:29 2008
+  1001  0x00000000  Permitted
+  1004  0x00000001  Prompt
+  1200  0x00000000  Permitted
+  1201  0x00000001  Prompt
+  1206  0x00000000  Permitted
+  1400  0x00000000  Permitted
+  1402  0x00000000  Permitted
+  1405  0x00000000  Permitted
+  1406  0x00000000  Permitted
+  1407  0x00000000  Permitted
+  1601  0x00000000  Permitted
+  1604  0x00000000  Permitted
+  1605  0x00000000  Permitted
+  1606  0x00000000  Permitted
+  1607  0x00000000  Permitted
+  1608  0x00000000  Permitted
+  1609  0x00000001  Prompt
+  1800  0x00000000  Permitted
+  1802  0x00000000  Permitted
+  1803  0x00000000  Permitted
+  1804  0x00000000  Permitted
+  1805  0x00000000  Permitted
+  1806  0x00000000  Permitted
+  1807  0x00000000  Permitted
+  1808  0x00000000  Permitted
+  1809  0x00000003  Prohibited
+  1A00  0x00000000  Permitted
+  1A02  0x00000000  Permitted
+  1A03  0x00000000  Permitted
+  1A04  0x00000000  Permitted
+  1A05  0x00000000  Permitted
+  1A06  0x00000000  Permitted
+  1A10  0x00000000  Permitted
+  1C00  0x00030000  
+  1E05  0x00030000  
+  2100  0x00000000  Permitted
+  2101  0x00000001  Prompt
+  2102  0x00000000  Permitted
+  2200  0x00000000  Permitted
+  2201  0x00000000  Permitted
+  2300  0x00000001  Prompt
+  2000  0x00000000  Permitted
+  1207  0x00000000  Permitted
+  180D  0x00000000  Permitted
+
+Zone 3:  Internet - This zone contains all Web sites you haven't placed in other zones
+LastWrite: Sun Jul  6 07:49:50 2008
+  1001  0x00000001  Prompt
+  1004  0x00000003  Prohibited
+  1200  0x00000000  Permitted
+  1201  0x00000003  Prohibited
+  1206  0x00000003  Prohibited
+  1400  0x00000000  Permitted
+  1402  0x00000000  Permitted
+  1405  0x00000000  Permitted
+  1406  0x00000003  Prohibited
+  1407  0x00000000  Permitted
+  1601  0x00000000  Permitted
+  1604  0x00000000  Permitted
+  1605  0x00000000  Permitted
+  1606  0x00000000  Permitted
+  1607  0x00000000  Permitted
+  1608  0x00000000  Permitted
+  1609  0x00000001  Prompt
+  1800  0x00000001  Prompt
+  1802  0x00000000  Permitted
+  1803  0x00000000  Permitted
+  1804  0x00000001  Prompt
+  1805  0x00000001  Prompt
+  1806  0x00000001  Prompt
+  1807  0x00000001  Prompt
+  1808  0x00000000  Permitted
+  1809  0x00000000  Permitted
+  1A00  0x00020000  
+  1A02  0x00000000  Permitted
+  1A03  0x00000000  Permitted
+  1A04  0x00000003  Prohibited
+  1A05  0x00000001  Prompt
+  1A06  0x00000000  Permitted
+  1A10  0x00000001  Prompt
+  1C00  0x00010000  
+  1E05  0x00020000  
+  2100  0x00000000  Permitted
+  2101  0x00000000  Permitted
+  2102  0x00000003  Prohibited
+  2200  0x00000003  Prohibited
+  2201  0x00000003  Prohibited
+  2300  0x00000001  Prompt
+  2000  0x00000000  Permitted
+  1207  0x00000003  Prohibited
+  180D  0x00000001  Prompt
+
+Zone 4:  Restricted sites - This zone contains Web sites that could potentially damage your computer or data.
+LastWrite: Sun Jul  6 06:11:29 2008
+  1001  0x00000003  Prohibited
+  1004  0x00000003  Prohibited
+  1200  0x00000003  Prohibited
+  1201  0x00000003  Prohibited
+  1206  0x00000003  Prohibited
+  1400  0x00000003  Prohibited
+  1402  0x00000003  Prohibited
+  1405  0x00000003  Prohibited
+  1406  0x00000003  Prohibited
+  1407  0x00000003  Prohibited
+  1601  0x00000001  Prompt
+  1604  0x00000001  Prompt
+  1605  0x00000000  Permitted
+  1606  0x00000003  Prohibited
+  1607  0x00000003  Prohibited
+  1608  0x00000003  Prohibited
+  1609  0x00000001  Prompt
+  1800  0x00000003  Prohibited
+  1802  0x00000001  Prompt
+  1803  0x00000003  Prohibited
+  1804  0x00000003  Prohibited
+  1805  0x00000001  Prompt
+  1806  0x00000003  Prohibited
+  1807  0x00000001  Prompt
+  1808  0x00000000  Permitted
+  1809  0x00000000  Permitted
+  1A00  0x00010000  
+  1A02  0x00000003  Prohibited
+  1A03  0x00000003  Prohibited
+  1A04  0x00000003  Prohibited
+  1A05  0x00000003  Prohibited
+  1A06  0x00000003  Prohibited
+  1A10  0x00000003  Prohibited
+  1C00  0x00000000  Permitted
+  1E05  0x00010000  
+  2100  0x00000003  Prohibited
+  2101  0x00000003  Prohibited
+  2102  0x00000003  Prohibited
+  2200  0x00000003  Prohibited
+  2201  0x00000003  Prohibited
+  2300  0x00000003  Prohibited
+  2000  0x00000003  Prohibited
+  1207  0x00000003  Prohibited
+  180B  0x00000001  Prompt
+  180D  0x00000001  Prompt
+
+----------------------------------------
+imgburn1 v20180630 (Gets user's ImgBurn MRU files and paths from NTUSER)
+Software\ImgBurn not found.
+----------------------------------------
+internet_explorer_cu v.20120528
+(NTUSER.DAT) Get HKCU information on Internet Explorer
+
+Software\Microsoft\Internet Explorer
+LastWrite Time Fri Jul 18 04:29:30 2008 (UTC)
+  Download Directory = ''
+
+Software\Microsoft\Internet Explorer\AutoComplete not found.
+
+Software\Microsoft\Internet Explorer\DOMStorage not found.
+
+Software\Microsoft\Internet Explorer\IETld not found.
+
+Software\Microsoft\Internet Explorer\Main
+LastWrite Time Fri Jul 18 05:25:33 2008 (UTC)
+  Anchor Underline                         = yes
+  Cache_Update_Frequency                   = Once_Per_Session
+  Check_Associations                       = No
+  Disable Script Debugger                  = yes
+  Display Inline Images                    = yes
+  Do404Search                              = 1 [0x01000000]
+  FullScreen                               = no
+  Local Page                               = C:\WINDOWS\system32\blank.htm
+  NoJITSetup                               = 1
+  NoUpdateCheck                            = true  [1]
+  NotifyDownloadComplete                   = yes
+  Save_Session_History_On_Exit             = no
+  Search Page                              = http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=iesearch
+  Show_ChannelBand                         = No
+  Show_FullURL                             = no
+  Show_StatusBar                           = yes
+  Show_ToolBar                             = yes
+  Show_URLToolBar                          = yes
+  Show_URLinStatusBar                      = yes
+  ShowedCheckBrowser                       = Yes
+  Start Page                               = http://www.microsoft.com/isapi/redir.dll?prd=ie&pver=6&ar=msnhome
+  Use FormSuggest                          = yes
+  Use_DlgBox_Colors                        = yes
+  Window_Placement                         = <skipped>
+  Software\Microsoft\Internet Explorer\Main\WindowsSearch not found.
+
+Software\Microsoft\Internet Explorer\Privacy not found (IE should use the default Privacy settings)
+
+Software\Microsoft\Internet Explorer\Recovery not found.
+
+Software\Microsoft\Internet Explorer\Suggested Sites not found.
+
+----------------------------------------
+internet_settings_cu v.20120528
+(NTUSER.DAT) Get HKCU information on Internet Settings
+
+Software\Microsoft\Windows\CurrentVersion\Internet Settings
+LastWrite Time Sat Jul 19 23:42:43 2008 (UTC)
+  AutoConfigProxy                = wininet.dll
+  EmailName                      = IEUser@
+  EnableHttp1_1                  = true  [1]
+  EnableNegotiate                = true  [1]
+  GlobalUserOffline              = false [0]
+  IE5_UA_Backup_Flag             = 5.0
+  MigrateProxy                   = true  [1]
+  MimeExclusionListForCache      = multipart/mixed multipart/x-mixed-replace multipart/x-byteranges 
+  NoNetAutodial                  = false [0]
+  PrivDiscUiShown                = true  [1]
+  PrivacyAdvanced                = false [0]
+  ProxyEnable                    = false [0]
+  UseSchannelDirectly            = 0x01000000
+  User Agent                     = Mozilla/4.0 (compatible; MSIE 6.0; Win32)
+  WarnOnPost                     = 0x01000000
+  WarnOnZoneCrossing             = 0
+
+
+ *Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0
+  LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache
+  LastWrite Time Sun Jul  6 06:11:30 2008 (UTC)
+    Signature                 = Client UrlCache MMF Ver 5.2
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Content
+  LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+    CacheLimit                = 327323 KB
+    CachePrefix               = 
+    PerUserItem               = 1
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Cookies
+  LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+    CacheLimit                = 8192 KB
+    CachePrefix               = Cookie:
+    PerUserItem               = 1
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\History
+  LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+    CacheLimit                = 8192 KB
+    CachePrefix               = Visited:
+    PerUserItem               = 1
+
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache
+  LastWrite Time Sat Jul 19 23:42:44 2008 (UTC)
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012008063020080707
+  LastWrite Time Mon Jul  7 05:26:04 2008 (UTC)
+    CacheLimit                = 8192 KB
+    CacheOptions              = 0xB
+    CachePath                 = %USERPROFILE%\Local Settings\History\History.IE5\MSHist012008063020080707\
+    CachePrefix               = :2008063020080707: 
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012008070720080714
+  LastWrite Time Mon Jul 14 21:29:56 2008 (UTC)
+    CacheLimit                = 8192 KB
+    CacheOptions              = 0xB
+    CachePath                 = %USERPROFILE%\Local Settings\History\History.IE5\MSHist012008070720080714\
+    CachePrefix               = :2008070720080714: 
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012008071420080715
+  LastWrite Time Mon Jul 14 21:29:56 2008 (UTC)
+    CacheLimit                = 8192 KB
+    CacheOptions              = 0xB
+    CachePath                 = %USERPROFILE%\Local Settings\History\History.IE5\MSHist012008071420080715\
+    CachePrefix               = :2008071420080715: 
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012008071520080716
+  LastWrite Time Tue Jul 15 02:44:33 2008 (UTC)
+    CacheLimit                = 8192 KB
+    CacheOptions              = 0xB
+    CachePath                 = %USERPROFILE%\Local Settings\History\History.IE5\MSHist012008071520080716\
+    CachePrefix               = :2008071520080716: 
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012008071620080717
+  LastWrite Time Wed Jul 16 03:15:51 2008 (UTC)
+    CacheLimit                = 8192 KB
+    CacheOptions              = 0xB
+    CachePath                 = %USERPROFILE%\Local Settings\History\History.IE5\MSHist012008071620080717\
+    CachePrefix               = :2008071620080717: 
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012008071720080718
+  LastWrite Time Thu Jul 17 14:48:40 2008 (UTC)
+    CacheLimit                = 8192 KB
+    CacheOptions              = 0xB
+    CachePath                 = %USERPROFILE%\Local Settings\History\History.IE5\MSHist012008071720080718\
+    CachePrefix               = :2008071720080718: 
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012008071820080719
+  LastWrite Time Thu Jul 17 23:49:26 2008 (UTC)
+    CacheLimit                = 8192 KB
+    CacheOptions              = 0xB
+    CachePath                 = %USERPROFILE%\Local Settings\History\History.IE5\MSHist012008071820080719\
+    CachePrefix               = :2008071820080719: 
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012008072020080721
+  LastWrite Time Sat Jul 19 23:42:44 2008 (UTC)
+    CacheLimit                = 8192 KB
+    CacheOptions              = 0xB
+    CachePath                 = %USERPROFILE%\Local Settings\History\History.IE5\MSHist012008072020080721\
+    CachePrefix               = :2008072020080721: 
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\UserData
+  LastWrite Time Sun Jul  6 07:51:00 2008 (UTC)
+    CacheLimit                = 1000 KB
+    CacheOptions              = 0x8
+    CachePath                 = %USERPROFILE%\UserData
+    CachePrefix               = UserData
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\LowCache not found.
+
+
+ *Software\Microsoft\Windows\CurrentVersion\Internet Settings\P3P
+  LastWrite Time Sun Jul  6 07:49:31 2008 (UTC)
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\P3P\History
+  LastWrite Time Sun Jul  6 07:49:31 2008 (UTC)
+  ANALYST NOTE:
+    No per-domain cookie decisions subkeys are present
+
+
+ *Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap
+  LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+    (default)                 = 
+    IntranetName              = 1
+    ProxyByPass               = 1
+    UNCAsIntranet             = 1
+    -- 'ZoneMap' subkeys -- not parsed:
+      Domains                   Sun Jul  6 06:11:23 2008 UTC
+      ProtocolDefaults          Sun Jul  6 06:11:23 2008 UTC
+      Ranges                    Sun Jul  6 06:11:23 2008 UTC
+
+Subkeys not parsed in 'Software\Microsoft\Windows\CurrentVersion\Internet Settings'
+
+    Cache                ---  Sun Jul  6 06:11:23 2008 UTC
+    Connections          ---  Sun Jul 20 23:49:55 2008 UTC
+    Lockdown_Zones       ---  Sun Jul  6 06:11:23 2008 UTC
+    Passport             ---  Sun Jul  6 06:11:23 2008 UTC
+    Zones                ---  Sun Jul  6 06:11:23 2008 UTC
+
+----------------------------------------
+itempos v.20130514
+(NTUSER.DAT) Shell/Bags/1/Desktop ItemPos* value parsing; Win7 NTUSER.DAT hives
+
+Software\Microsoft\Windows\Shell\Bags\1\Desktop
+LastWrite: Mon Jul 21 01:17:56 2008
+
+Value: ItemPos986x838(1)
+Size      |Modified            |Accessed            |Created             |Name
+----------|--------------------|--------------------|--------------------|----------
+          |                    |                    |                    |Recycle Bin
+          |                    |                    |                    |My Games
+1683      |2008-05-14 05:38:42 |2008-07-06 06:11:34 |2008-05-14 05:38:42 |Mozilla Firefox 3 Beta 5.lnk
+336       |2008-05-13 21:18:48 |2008-07-06 06:11:34 |2008-05-13 21:30:16 |VMware Shared Folders.lnk
+
+Value: ItemPos1680x1050(1)
+Size      |Modified            |Accessed            |Created             |Name
+----------|--------------------|--------------------|--------------------|----------
+          |                    |                    |                    |Recycle Bin
+          |                    |                    |                    |My Games
+1683      |2008-05-14 05:38:42 |2008-07-11 05:19:50 |2008-05-14 05:38:42 |Mozilla Firefox 3 Beta 5.lnk
+336       |2008-07-11 18:00:38 |2008-07-11 18:00:38 |2008-05-13 21:30:16 |VMware Shared Folders.lnk
+
+----------------------------------------
+javafx v.20110322
+(NTUSER.DAT) Gets contents of user's JavaFX key
+
+Software\JavaSoft\Java Update\Policy\JavaFX not found.
+----------------------------------------
+jumplistdata v.20180611
+- Gets contents of user's JumpListData key
+
+Software\Microsoft\Windows\CurrentVersion\Search\JumpListData not found.
+----------------------------------------
+kankan v.20131011
+(NTUSER.DAT, Software) Extracts Office app Addin Settings
+
+Word Addins
+WebPage.Connect  [Sun Jul  6 07:37:38 2008]
+  FriendlyName: Web Page Wizard
+  LoadBehavior: 8
+
+
+Tip: At least one identified variant of Win32/KanKan creates an Addin named
+InputEnhance.Connect
+----------------------------------------
+knowndev v.20190714
+(NTUSER.DAT) Gets user's KnownDevices key contents
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices not found.
+----------------------------------------
+latentbot v.20151213
+(NTUSER.DAT) Check NTUSER.DAT for indications of LatentBot
+
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+load value = 
+
+----------------------------------------
+listsoft v.20080324
+(NTUSER.DAT) Lists contents of user's Software key
+
+listsoft v.20080324
+List the contents of the Software key in the NTUSER.DAT hive
+file, in order by LastWrite time.
+
+Fri Jul 18 04:37:03 2008Z 	Winamp
+Fri Jul 18 04:32:09 2008Z 	America Online
+Fri Jul 18 04:31:41 2008Z 	Tencent
+Fri Jul 18 04:29:31 2008Z 	AOL
+Fri Jul 11 19:19:29 2008Z 	Microsoft
+Thu Jul 10 20:09:03 2008Z 	Macromedia
+Thu Jul 10 08:01:31 2008Z 	Clients
+Sun Jul  6 07:37:38 2008Z 	ODBC
+Sun Jul  6 06:11:23 2008Z 	Intel
+Sun Jul  6 06:11:23 2008Z 	Netscape
+Sun Jul  6 06:11:23 2008Z 	Policies
+----------------------------------------
+liveContactsGUID v.20110221
+(NTUSER.DAT) Gets user Windows Live Messenger GUIDs
+
+Software\Microsoft\Windows Live Contacts\Database not found.
+----------------------------------------
+load v.20100811
+(NTUSER.DAT) Gets load and run values from user hive
+
+load
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+
+load = 
+run value not found.
+----------------------------------------
+logonstats v.20180128
+- Gets contents of user's LogonStats key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\LogonStats not found.
+----------------------------------------
+logonusername v.20080324
+(NTUSER.DAT) Get user's Logon User Name value
+
+Logon User Name
+Software\Microsoft\Windows\CurrentVersion\Explorer
+LastWrite Time [Mon Jul 21 01:17:56 2008 (UTC)]
+Logon User Name = Jean
+----------------------------------------
+menuorder v.20121005
+
+\Start Menu2
+LastWrite: Fri Jul 11 19:08:31 2008 Z
+
+\Start Menu2\Programs
+LastWrite: Fri Jul 18 05:15:35 2008 Z
+  New Office Document.lnk
+  Open Office Document.lnk
+  Set Program Access and Defaults.lnk (@xpsp1res.dll,-10077)
+  Windows Catalog.lnk (@shell32.dll,-22075)
+  Windows Update.lnk
+  Accessories (@shell32.dll,-21761)
+  AIM
+  AIMTunes
+  Games (@shell32.dll,-21773)
+  Microsoft Office Tools
+  Mozilla Firefox 3 Beta 5
+  QQ Games
+  Startup (@shell32.dll,-21787)
+  Internet Explorer.lnk (@xpsp1res.dll,-11001)
+  Microsoft Excel.lnk
+  Microsoft Outlook.lnk
+  Microsoft PowerPoint.lnk
+  Microsoft Word.lnk
+  MSN.lnk
+  Outlook Express.lnk (@xpsp1res.dll,-11004)
+  Remote Assistance.lnk (@C:\WINDOWS\system32\rcbdyctl.dll,-152)
+  Windows Media Player.lnk
+  Windows Messenger.lnk
+  Windows Movie Maker.lnk (@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446)
+
+\Start Menu2\Programs\Accessories
+LastWrite: Thu Jul 17 17:04:10 2008 Z
+  Accessibility (@shell32.dll,-21760)
+  Communications (@shell32.dll,-21768)
+  Entertainment (@shell32.dll,-21772)
+  System Tools (@shell32.dll,-21788)
+  Address Book.lnk (@shell32.dll,-22017)
+  Calculator.lnk (@shell32.dll,-22019)
+  Command Prompt.lnk (@shell32.dll,-22022)
+  Notepad.lnk (@shell32.dll,-22051)
+  Paint.lnk (@shell32.dll,-22054)
+  Program Compatibility Wizard.lnk (@C:\WINDOWS\system32\compatUI.dll,-115)
+  Remote Desktop Connection.lnk
+  Scanner and Camera Wizard.lnk (@C:\WINDOWS\system32\sti_ci.dll,-11)
+  Synchronize.lnk (@shell32.dll,-22062)
+  Tour Windows XP.lnk (@C:\WINDOWS\system32\tourstart.exe,-1)
+  Windows Explorer.lnk (@shell32.dll,-22067)
+  WordPad.lnk (@shell32.dll,-22069)
+
+\Start Menu2\Programs\Games
+LastWrite: Thu Jul 17 17:04:11 2008 Z
+  Freecell.lnk (@shell32.dll,-22030)
+  Hearts.lnk (@C:\WINDOWS\system32\mshearts.exe,-413)
+  Internet Backgammon.lnk (@C:\PROGRA~1\MSNGAM~1\Windows\bckgres.dll,-1212)
+  Internet Checkers.lnk (@C:\PROGRA~1\MSNGAM~1\Windows\chkrres.dll,-1212)
+  Internet Hearts.lnk (@C:\PROGRA~1\MSNGAM~1\Windows\hrtzres.dll,-1212)
+  Internet Reversi.lnk (@C:\PROGRA~1\MSNGAM~1\Windows\rvseres.dll,-1212)
+  Internet Spades.lnk (@C:\PROGRA~1\MSNGAM~1\Windows\shvlres.dll,-1212)
+  Minesweeper.lnk (@shell32.dll,-22045)
+  Pinball.lnk (@shell32.dll,-22057)
+  Solitaire.lnk (@shell32.dll,-22060)
+  Spider Solitaire.lnk (@C:\WINDOWS\system32\spider.exe,-56)
+
+\Start Menu2\Programs\Microsoft Office Tools
+LastWrite: Wed Jul 16 22:30:50 2008 Z
+  Microsoft Office Language Settings.lnk
+  Microsoft Office Shortcut Bar.lnk
+
+\Favorites
+LastWrite: Sun Jul  6 07:49:29 2008 Z
+
+\Favorites\Links
+LastWrite: Sun Jul  6 07:49:29 2008 Z
+  Windows Marketplace.url
+
+----------------------------------------
+mixer v.20141112
+(NTUSER.DAT) Checks user's audio mixer settings
+
+----------------------------------------
+mmc v.20080324
+(NTUSER.DAT) Get contents of user's MMC\Recent File List key
+
+Software\Microsoft\Microsoft Management Console\Recent File List not found.
+----------------------------------------
+mmo v.20130217
+(NTUSER.DAT) Checks NTUSER for Multimedia\Other values [malware]
+
+Software\Microsoft\Multimedia\Other not found.
+Software\Microsoft\CTF\LangBarAddIn not found.
+----------------------------------------
+mndmru v.20080324
+(NTUSER.DAT) Get contents of user's Map Network Drive MRU
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Map Network Drive MRU not found.
+----------------------------------------
+mp2 v.20120330
+(NTUSER.DAT) Gets user's MountPoints2 key contents
+
+MountPoints2
+Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2
+LastWrite Time Sun Jul 20 01:26:21 2008 (UTC)
+
+Remote Drives:
+
+Volumes:
+Sat Jul 19 23:32:24 2008 (UTC)
+  {85a9fbf5-213a-11dd-b524-806d6172696f}
+Sun Jul  6 07:37:34 2008 (UTC)
+  {c3b81074-4b2a-11dd-ad95-000c298d352b}
+Sun Jul  6 06:11:37 2008 (UTC)
+  {85a9fbf4-213a-11dd-b524-806d6172696f}
+  {85a9fbf7-213a-11dd-b524-806d6172696f}
+
+Drives:
+Sun Jul 20 01:26:21 2008 (UTC) - E
+Sun Jul  6 06:11:23 2008 (UTC) - A,C,D
+
+Unique MAC Addresses:
+80:6D:61:72:69:6F
+00:0C:29:8D:35:2B
+
+Analysis Tip: Correlate the Volume entries to those found in the MountedDevices
+entries that begin with "\??\Volume".
+----------------------------------------
+mp3 v.20120330
+(NTUSER.DAT) Gets user's MountPoints2 key contents
+
+1216510344|REG|Server|User|{85a9fbf5-213a-11dd-b524-806d6172696f} Volume MP2 key LastWrite
+1210717112|REG|Server|User|{85a9fbf5-213a-11dd-b524-806d6172696f} Vol GUID date
+1215329854|REG|Server|User|{c3b81074-4b2a-11dd-ad95-000c298d352b} Volume MP2 key LastWrite
+1215328293|REG|Server|User|{c3b81074-4b2a-11dd-ad95-000c298d352b} Vol GUID date
+1215324697|REG|Server|User|{85a9fbf4-213a-11dd-b524-806d6172696f} Volume MP2 key LastWrite
+1210717112|REG|Server|User|{85a9fbf4-213a-11dd-b524-806d6172696f} Vol GUID date
+1215324697|REG|Server|User|{85a9fbf7-213a-11dd-b524-806d6172696f} Volume MP2 key LastWrite
+1210717112|REG|Server|User|{85a9fbf7-213a-11dd-b524-806d6172696f} Vol GUID date
+----------------------------------------
+mpmru v.20080324
+(NTUSER.DAT) Gets user's Media Player RecentFileList values
+
+Software\Microsoft\MediaPlayer\Player\RecentFileList not found.
+----------------------------------------
+mspaper v.20080324
+(NTUSER.DAT) Gets images listed in user's MSPaper key
+
+SOFTWARE\Microsoft\MSPaper* not found.
+----------------------------------------
+muicache v.20130425
+(NTUSER.DAT,USRCLASS.DAT) Gets EXEs from user's MUICache key
+
+Software\Microsoft\Windows\ShellNoRoam\MUICache
+LastWrite Time Mon Jul 21 01:17:32 2008 (UTC)
+  C:\WINDOWS\Explorer.EXE (Windows Explorer)
+  C:\Program Files\VMware\VMware Tools\VMwareTray.exe (VMware Tools tray application)
+  C:\Program Files\VMware\VMware Tools\VMwareUser.exe (VMware Tools Service)
+  C:\Program Files\Messenger\msmsgs.exe (Windows Messenger)
+  C:\Program Files\AIM6\aim6.exe (AIM)
+  C:\Program Files\Microsoft Office\Office\OSA9.EXE (Microsoft Office 2000 component)
+  C:\Program Files\Microsoft Office\Office\OUTLOOK.EXE (Microsoft Outlook)
+  C:\Program Files\Mozilla Firefox 3 Beta 5\firefox.exe (Firefox)
+  C:\Program Files\Microsoft Office\Office\EXCEL.EXE (Microsoft Excel for Windows)
+  C:\WINDOWS\system32\taskmgr.exe (Windows TaskManager)
+  C:\PROGRA~1\MICROS~2\Office\OUTLOOK.EXE (Microsoft Outlook)
+Local Settings\Software\Microsoft\Windows\Shell\MUICache not found.
+----------------------------------------
+mzthunderbird v.20180712
+(NTUSER.DAT) Gets Thunderbird profile data
+
+Software\Microsoft\Windows\CurrentVersion\UnreadMail not found.
+----------------------------------------
+nation v.20091116
+(ntuser.dat) Gets region information from HKCU
+
+Nation Information Check
+Control Panel\International\Geo
+LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+
+The Region value is : 244
+The Country Is: United States
+For more information please visit the link below:
+https://msdn.microsoft.com/en-us/library/aa723531.aspx
+
+----------------------------------------
+nero v.20100218
+(NTUSER.DAT) Gets contents of Ahead\Nero Recent File List subkeys
+
+Software\Ahead not found.
+----------------------------------------
+netassist v.20110427
+(NTUSER.DAT) Check for Firefox Extensions.
+
+Software\Mozilla\Firefox\Extensions not found.
+Software\Microsoft\Windows\CurrentVersion\Uninstall\NetAssistant not found.
+Software\Microsoft\Installer\Products\D4676621F4CF7AF46BB388D4351B86F0 not found.
+Software\Microsoft\Installer\Products\D4676621F4CF7AF46BB388D4351B86F0\SourceList not found.
+
+----------------------------------------
+ntusernetwork v.20110601
+(NTUSER.DAT) Returns contents of user's Network subkeys
+
+Network key not found.
+----------------------------------------
+odysseus v.20110202
+(NTUSER.DAT) Extract registry keys for Odysseus by bindshell.net.
+
+Software\bindshell.net\Odysseus not found.
+
+----------------------------------------
+officedocs v.20080324
+(NTUSER.DAT) Gets contents of user's Office doc MRU keys
+
+officedocs v.20080324
+MSOffice version 9.0 located.
+
+
+
+Software\Microsoft\Office\9.0\Excel\Recent Files
+LastWrite Time Sun Jul 20 01:28:13 2008 (UTC)
+  File1 -> C:\Documents and Settings\Jean\Desktop\m57biz.xls
+
+Software\Microsoft\Office\9.0\PowerPoint\Recent File List not found.
+----------------------------------------
+officedocs2010 v.2011090
+(NTUSER.DAT) Gets user's Office 2010 doc MRU values
+
+MSOffice version not found.
+----------------------------------------
+----------------------------------------
+oisc v.20091125
+(NTUSER.DAT) Gets contents of user's Office Internet Server Cache
+
+MSOffice version not found.
+----------------------------------------
+olsearch v.20130124
+(NTUSER.DAT) Gets contents of user's OutLook Searches
+
+Software\Microsoft\Windows NT\CurrentVersion\Windows Messaging Subsystem\Profiles\Outlook\0a0d020000000000c000000000000046 not found.
+----------------------------------------
+OSVersion
+Software\Microsoft
+LastWrite Time Fri Jul 11 19:19:29 2008 (UTC)
+
+OSVersion value not found.
+----------------------------------------
+outlook v.20100218
+(NTUSER.DAT) Gets user's Outlook settings
+
+
+Microsoft Outlook Internet Settings Profile
+----------------------------------------
+outlook2 v.20130308
+(NTUSER.DAT) Gets MAPI (Outlook) settings *BETA*
+
+Working path is ''
+
+Outlook key not found
+----------------------------------------
+policies_u v.20091021
+(NTUSER.DAT) Get values from the user's Policies key
+
+
+Explorer subkey values:
+  NoDriveTypeAutoRun   145                 
+
+System\EnableProfileQuota value not found.
+----------------------------------------
+printermru v.20091125
+(NTUSER.DAT) Gets user's Printer Wizard MRU listing
+
+Printers\Settings\Wizard\ConnectMRU not found.
+----------------------------------------
+printers v.20090223
+(NTUSER.DAT) Get user's printers
+
+Software\Microsoft\Windows NT\CurrentVersion\PrinterPorts
+LastWrite Time: Sun Jul 20 00:01:12 2008
+
+Software\Microsoft\Windows NT\CurrentVersion\PrinterPorts has no values.
+
+----------------------------------------
+privoxy v.20110204
+(NTUSER.DAT) Extracts the install path for Privoxy.
+
+Software\Privoxy not found.
+
+----------------------------------------
+profiler v.20140510
+(NTUSER.DAT, System) Environment profiler information
+
+Environment
+LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+
+TEMP -> %USERPROFILE%\Local Settings\Temp
+TMP -> %USERPROFILE%\Local Settings\Temp
+
+----------------------------------------
+proxysettings v.20081224
+(NTUSER.DAT) Gets contents of user's Proxy Settings
+
+ProxySettings
+Software\Microsoft\Windows\CurrentVersion\Internet Settings
+LastWrite Time Sat Jul 19 23:42:43 2008 (UTC)
+  AutoConfigProxy                wininet.dll                   
+  EmailName                      IEUser@                       
+  EnableHttp1_1                  1                             
+  EnableNegotiate                1                             
+  GlobalUserOffline              0                             
+  IE5_UA_Backup_Flag             5.0                           
+  MigrateProxy                   1                             
+  MimeExclusionListForCache      multipart/mixed multipart/x-mixed-replace multipart/x-byteranges 
+  NoNetAutodial                  0                             
+  PrivDiscUiShown                1                             
+  PrivacyAdvanced                0                             
+  ProxyEnable                    0                             
+  UseSchannelDirectly            1                             
+  User Agent                     Mozilla/4.0 (compatible; MSIE 6.0; Win32)
+  WarnOnPost                     1                             
+  WarnOnZoneCrossing             0                             
+----------------------------------------
+pslogging v.20181209
+(NTUSER.DAT, Software) Extracts PowerShell logging settings
+
+Software\Policies\Microsoft\Windows\PowerShell not found.
+Policies\Microsoft\Windows\PowerShell not found.
+----------------------------------------
+publishingwizard v.20110202
+(NTUSER.DAT) Extract AddNetPlace\LocationMRU for Microsoft Publishing Wizard
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\PublishingWizard\AddNetworkPlace\AddNetPlace\LocationMRU not found.
+
+----------------------------------------
+putty v.20110204
+(NTUSER.DAT) Extracts the saved SshHostKeys for PuTTY.
+
+Software\SimonTatham\PuTTY\SshHostKeys not found.
+
+----------------------------------------
+putty_sessions v.20170321
+(NTUSER.DAT) Extracts the saved sessions for PuTTY.
+
+Software\SimonTatham\PuTTY\Sessions not found.
+
+----------------------------------------
+rdphint v.20090715
+(NTUSER.DAT) Gets hosts logged onto via RDP and the Domain\Username
+
+Software\Microsoft\Terminal Server Client\Servers not found.
+----------------------------------------
+reading_locations v.20140130
+(NTUSER.DAT) Gets user's MS Word 2013 Reading Locations
+
+Software\Microsoft\Office\15.0\Word\Reading Locations not found.
+----------------------------------------
+realplayer6 v.20080324
+(NTUSER.DAT) Gets user's RealPlayer v6 MostRecentClips(Default) values
+
+Software\RealNetworks\RealPlayer\6.0\Preferences not found.
+----------------------------------------
+realvnc v.20091125
+(NTUSER.DAT) Gets user's RealVNC MRU listing
+
+Software\RealVNC\VNCViewer4\MRU not found.
+----------------------------------------
+recentapps v.20171013
+- Gets contents of user's RecentApps key
+
+Software\Microsoft\Windows\CurrentVersion\Search\RecentApps not found.
+----------------------------------------
+recentdocs v.20100405
+(NTUSER.DAT) Gets contents of user's RecentDocs key
+
+RecentDocs
+**All values printed in MRUList\MRUListEx order.
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+LastWrite Time Sun Jul 20 01:28:04 2008 (UTC)
+  4 = m57biz.xls
+  3 = tag-cloud.jpg
+  1 = My Pictures
+  2 = t1soft.flipflops.jpg
+  0 = LightBlueTop.gif
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.gif
+LastWrite Time Sun Jul  6 07:54:08 2008 (UTC)
+MRUListEx = 0
+  0 = LightBlueTop.gif
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpg
+LastWrite Time Fri Jul 11 18:00:37 2008 (UTC)
+MRUListEx = 1,0
+  1 = tag-cloud.jpg
+  0 = t1soft.flipflops.jpg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xls
+LastWrite Time Sun Jul 20 01:28:04 2008 (UTC)
+MRUListEx = 0
+  0 = m57biz.xls
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder
+LastWrite Time Sun Jul  6 07:54:26 2008 (UTC)
+MRUListEx = 0
+  0 = My Pictures
+
+----------------------------------------
+recentdocs_timeline v.20161112
+(NTUSER.DAT) Gets contents of user's RecentDocs key and place last write times into timeline based on MRUListEx
+
+RecentDocs
+Sun Jul  6 07:54:08 2008		:	LightBlueTop.gif
+Fri Jul 11 18:00:37 2008		:	tag-cloud.jpg
+Sun Jul 20 01:28:04 2008		:	m57biz.xls
+Sun Jul  6 07:54:26 2008		:	My Pictures
+
+The last write times are now placed in line with the values in the MRUListEx value 
+	Sun Jul 20 01:28:04 2008		4 = m57biz.xls
+	Fri Jul 11 18:00:37 2008		3 = tag-cloud.jpg
+	Sun Jul  6 07:54:26 2008		1 = My Pictures
+					2 = t1soft.flipflops.jpg
+	Sun Jul  6 07:54:08 2008		0 = LightBlueTop.gif
+
+----------------------------------------
+reveton v.20131010
+Checks for possible Reveton infection
+
+Software\Microsoft\Windows\CurrentVersion\Run
+LastWrite Time Fri Jul 18 04:36:52 2008 (UTC)
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Internet Explorer\Toolbar\Locked value = 1
+
+Internet Explorer Toolbar is locked: possible Reveton infection.
+
+Checking Internet Zones Settings...
+Checking Task Manager Setting...
+Software\Microsoft\Windows\CurrentVersion\Policies\System\ not found.
+
+Checking HideIcons Setting...
+Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ not found.
+
+Final Score: 1/6 checks succeeded.
+----------------------------------------
+rootkit_revealer v.20110204
+(NTUSER.DAT) Extracts the EULA value for Sysinternals Rootkit Revealer.
+
+Software\Sysinternals\RootkitRevealer not found.
+
+----------------------------------------
+runmru v.20080324
+(NTUSER.DAT) Gets contents of user's RunMRU key
+
+RunMru
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+LastWrite Time Sun Jul 20 05:08:18 2008 (UTC)
+MRUList = a
+a   taskmgr\1
+----------------------------------------
+searchscopes v.20180406
+- Gets contents of user's SearchScopes key
+
+Software\Microsoft\Internet Explorer\SearchScopes not found.
+----------------------------------------
+Software\7-Zip not found.
+Software\Wow6432Node\7-Zip not found.
+----------------------------------------
+shc v.20190305
+(NTUSER.DAT) Gets SHC entries from user hive
+
+Software\Microsoft\Windows\CurrentVersion\UFH\SHC not found.
+----------------------------------------
+shellactivities v.20180709
+- Gets contents of user's ShellActivities key
+
+Software\Microsoft\Windows\CurrentVersion\CloudStore\Store\Cache\DefaultAccount\$$windows.data.taskflow.shellactivities\Current not found.
+----------------------------------------
+shellbags_xp v.20130102
+(NTUSER.DAT) Shell/BagMRU traversal in XP NTUSER.DAT hives
+
+MRU Time             |Modified             | Accessed             | Created              | Zip_Subfolder        |Resource
+------------         |------------         | ------------         | ------------         | ------------         |------------
+2008-07-18 03:56:02  |                     |                      |                      |                      |Desktop\Explorer
+                     |                     |                      |                      |                      |Desktop\My Documents
+2008-07-06 07:50:39  |2008-07-06 06:11:36  | 2008-07-06 06:11:34  | 2008-07-06 06:11:30  |                      |Desktop\My Documents\My Pictures
+                     |                     |                      |                      |                      |Desktop\My Computer
+
+0x00000000: 14 00 2e 00 20 20 ec 21 ea 3a 69 10 a2 dd 08 00  ....  .!.:i.....
+0x00000010: 2b 30 30 9d 00 00                                +00...
+
+2008-07-18 03:55:54  |                     |                      |                      |                      |Desktop\My Computer\Control Panel
+----------------------------------------
+shellfolders v.20090115
+(NTUSER.DAT) Retrieve user Shell Folders values
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+LastWrite Time Sun Jul  6 06:11:37 2008 (UTC)
+AppData              C:\Documents and Settings\Jean\Application Data
+Cookies              C:\Documents and Settings\Jean\Cookies  
+Desktop              C:\Documents and Settings\Jean\Desktop  
+Favorites            C:\Documents and Settings\Jean\Favorites
+NetHood              C:\Documents and Settings\Jean\NetHood  
+Personal             C:\Documents and Settings\Jean\My Documents
+PrintHood            C:\Documents and Settings\Jean\PrintHood
+Recent               C:\Documents and Settings\Jean\Recent   
+SendTo               C:\Documents and Settings\Jean\SendTo   
+Start Menu           C:\Documents and Settings\Jean\Start Menu
+Templates            C:\Documents and Settings\Jean\Templates
+Programs             C:\Documents and Settings\Jean\Start Menu\Programs
+Startup              C:\Documents and Settings\Jean\Start Menu\Programs\Startup
+Local Settings       C:\Documents and Settings\Jean\Local Settings
+Local AppData        C:\Documents and Settings\Jean\Local Settings\Application Data
+Cache                C:\Documents and Settings\Jean\Local Settings\Temporary Internet Files
+History              C:\Documents and Settings\Jean\Local Settings\History
+My Pictures          C:\Documents and Settings\Jean\My Documents\My Pictures
+Fonts                C:\WINDOWS\Fonts                        
+My Music             C:\Documents and Settings\Jean\My Documents\My Music
+CD Burning           C:\Documents and Settings\Jean\Local Settings\Application Data\Microsoft\CD Burning
+My Video                                                     
+
+----------------------------------------
+Software\Skype not found.
+----------------------------------------
+snapshot_viewer v.20110210
+(NTUSER.DAT) Extracts Recent File List for Microsoft Snapshot Viewer.
+
+Software\Microsoft\Snapshot Viewer\Recent File List not found.
+
+----------------------------------------
+ssh_host_keys v.20120809
+(NTUSER.DAT) Extracts Putty/WinSCP SSH Host Keys
+
+"Software\SimonTatham\Putty\SshHostKeys" does not exist
+
+"Software\Martin Prikryl\WinSCP 2\SshHostKeys" does not exist
+----------------------------------------
+startmenuinternetapps_cu v.20101219
+(NTUSER.DAT) Start Menu Internet Applications info current user
+
+Start Menu Internet Applications
+
+StartMenuInternet [Thu Jul 10 08:01:31 2008 (UTC)]
+NOTE: default Internet Browser client key
+(default) -> FIREFOX.EXE
+
+----------------------------------------
+startpage v.20100330
+(NTUSER.DAT) Gets contents of user's StartPage key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartPage
+LastWrite Time Mon Jul 21 00:12:24 2008 (UTC)
+
+StartMenu_Start_Time   = Sun Jul  6 06:11:36 2008 Z
+StartMenu_Balloon_Time = Fri Jul 18 05:15:34 2008 Z
+----------------------------------------
+startup v.20131028
+Gets user's Startup Folder location
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+LastWrite Time Sun Jul  6 06:11:37 2008 (UTC)
+StartUp folder : C:\Documents and Settings\Jean\Start Menu\Programs\Startup
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+LastWrite Time Sun Jul  6 06:11:29 2008 (UTC)
+StartUp folder : %USERPROFILE%\Start Menu\Programs\Startup
+----------------------------------------
+Software\SysInternals not found.
+----------------------------------------
+thunderbirdinstalled v.20120524
+(Software,NTUSER.DAT) Shows install status of Thunderbird
+
+Microsoft\Windows\CurrentVersion\App Paths\thunderbird.exe not found.
+ Thunderbird not installed.
+WOW6432Node\Microsoft\Windows\CurrentVersion\App Paths\thunderbird.exe not found.
+ Thunderbird not installed.
+----------------------------------------
+trustrecords v.20190626
+
+**Word**
+----------
+
+**PowerPoint**
+----------
+
+**Excel**
+----------
+
+**Access**
+----------
+
+----------------------------------------
+Launching tsclient v.20120827
+(NTUSER.DAT) Displays contents of user's Terminal Server Client\Default key
+
+Software\Microsoft\Terminal Server Client\Default not found.
+
+Software\Microsoft\Terminal Server Client\Servers not found.
+----------------------------------------
+typedpaths v.20100330
+(NTUSER.DAT) Gets contents of user's typedpaths key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths not found.
+----------------------------------------
+typedurls v.20080324
+(NTUSER.DAT) Returns contents of user's TypedURLs key.
+
+TypedURLs
+Software\Microsoft\Internet Explorer\TypedURLs
+LastWrite Time Fri Jul 18 05:02:18 2008 (UTC)
+  url1 -> http://www.aim.com/
+  url2 -> http://ebay.com/
+  url3 -> http://leather-backpacks.com/
+  url4 -> http://google.com/
+  url5 -> http://www.ebay.com/
+  url6 -> http://gap.com/
+  url7 -> http://www.kant.com/
+  url8 -> http://www.google.com/
+  url9 -> http://www.microsoft.com/isapi/redir.dll?prd=ie&pver=6&ar=msnhome
+----------------------------------------
+typedurlstime v.20120613
+(NTUSER.DAT) Returns contents of user's TypedURLsTime key.
+
+Software\Microsoft\Internet Explorer\TypedURLsTime not found.
+----------------------------------------
+uninstall v.20140512
+(Software, NTUSER.DAT) Gets contents of Uninstall keys from Software, NTUSER.DAT hives
+
+Uninstall
+----------------------------------------
+unreadmail v.20100218
+(NTUSER.DAT) Gets contents of Unreadmail key
+
+Software\Microsoft\Windows\CurrentVersion\UnreadMail not found.
+----------------------------------------
+UserAssist
+Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist
+LastWrite Time Sun Jul  6 06:11:28 2008 (UTC)
+
+{5E6AB780-7743-11CF-A12B-00AA004AE837}
+Fri Jul 18 05:24:40 2008 Z
+  UEME_UITOOLBAR (38)
+  UEME_UITOOLBAR:0x1,120 (37)
+Wed Jul 16 03:16:14 2008 Z
+  UEME_UITOOLBAR:0x1,123 (1)
+
+Value names with no time stamps:
+  HRZR_PGYPHNPbhag:pgbe
+
+{75048700-EF1F-11D0-9888-006097DEACF9}
+Mon Jul 21 00:44:52 2008 Z
+  UEME_UISCUT (19)
+  UEME_RUNPATH (67)
+  UEME_RUNPATH:::{00020D75-0000-0000-C000-000000000046} (4)
+  UEME_RUNPATH:C:\PROGRA~1\MICROS~2\Office\OUTLOOK.EXE (6)
+Sun Jul 20 23:49:50 2008 Z
+  UEME_RUNPATH:C:\Program Files\AIM6\aim6.exe (1)
+Sun Jul 20 23:49:49 2008 Z
+  UEME_RUNPATH:AIM 6.lnk (1)
+Sun Jul 20 23:37:39 2008 Z
+  UEME_RUNPATH:Mozilla Firefox 3 Beta 5.lnk (7)
+  UEME_RUNPATH:C:\Program Files\Mozilla Firefox 3 Beta 5\firefox.exe (7)
+Sun Jul 20 05:08:18 2008 Z
+  UEME_RUNPATH:C:\WINDOWS\system32\taskmgr.exe (1)
+Sun Jul 20 00:51:53 2008 Z
+  UEME_RUNPATH:{00000409-78E1-11D2-B60F-006097C998E7} (2)
+Sat Jul 19 23:31:15 2008 Z
+  UEME_RUNCPL (2)
+  UEME_RUNCPL:desk.cpl (2)
+Sat Jul 19 23:31:08 2008 Z
+  UEME_RUNPIDL (45)
+  UEME_RUNPIDL:::{2559A1F5-21D7-11D4-BDAF-00C04F60B9F0} (1)
+Fri Jul 18 17:48:35 2008 Z
+  UEME_RUNPIDL:%csidl2%\Games\Spider Solitaire.lnk (11)
+  UEME_RUNPATH:C:\WINDOWS\system32\spider.exe (9)
+Fri Jul 18 05:15:43 2008 Z
+  UEME_RUNPATH:C:\Program Files\Internet Explorer\iexplore.exe (10)
+  UEME_RUNPIDL:%csidl2%\Internet Explorer.lnk (11)
+Thu Jul 17 17:04:13 2008 Z
+  UEME_RUNPIDL:%csidl2%\Games (10)
+Thu Jul 17 14:48:29 2008 Z
+  UEME_RUNPATH:C:\Program Files\Microsoft Office\Office\EXCEL.EXE (1)
+Thu Jul 17 14:48:28 2008 Z
+  UEME_RUNPIDL:%csidl2%\Microsoft Excel.lnk (1)
+Wed Jul 16 18:15:20 2008 Z
+  UEME_RUNPIDL:%csidl2% (3)
+Fri Jul 11 17:14:57 2008 Z
+  UEME_RUNPIDL:C:\Documents and Settings\All Users\Desktop\Mozilla Firefox 3 Beta 5.lnk (2)
+  UEME_RUNPIDL:C:\Documents and Settings\All Users\Desktop (2)
+Fri Jul 11 05:07:30 2008 Z
+  UEME_RUNPIDL:%csidl2%\Windows Messenger.lnk (13)
+  UEME_RUNPATH:C:\Program Files\Messenger\msmsgs.exe (1)
+Sun Jul  6 07:54:01 2008 Z
+  UEME_RUNPATH:C:\WINDOWS\system32\rundll32.exe (2)
+Sun Jul  6 07:49:28 2008 Z
+  UEME_RUNPIDL:::{2559A1F4-21D7-11D4-BDAF-00C04F60B9F0} (1)
+Sun Jul  6 07:06:59 2008 Z
+  UEME_RUNPATH:VMware Shared Folders.lnk (2)
+Sun Jul  6 06:09:49 2008 Z
+  UEME_RUNPIDL:%csidl2%\MSN.lnk (14)
+  UEME_RUNPIDL:%csidl2%\Windows Media Player.lnk (13)
+  UEME_RUNPIDL:%csidl2%\Accessories\Tour Windows XP.lnk (11)
+  UEME_RUNPIDL:%csidl2%\Accessories\System Tools\Files and Settings Transfer Wizard.lnk (10)
+
+Value names with no time stamps:
+  HRZR_PGYPHNPbhag:pgbe
+  HRZR_EHACVQY:%pfvqy2%\NVZ\NVZ 6.yax
+  HRZR_EHACVQY:%pfvqy2%\NVZ\Havafgnyy NVZ.yax
+
+----------------------------------------
+userinfo v.20130513
+(NTUSER.DAT) Gets contents of MS Office UserInfo values
+
+
+Software\Microsoft\Office\Common\UserInfo not found.
+
+Software\Microsoft\Office\11\.0\Common\UserInfo not found.
+
+----------------------------------------
+userlocsvc v.20090411
+(NTUSER.DAT) Displays contents of User Location Service\Client key
+
+Software\Microsoft\User Location Service\Client not found.
+----------------------------------------
+user_run v.20140115
+(NTUSER.DAT) [Autostart] Get autostart key contents from NTUSER.DAT hive
+
+Software\Microsoft\Windows\CurrentVersion\Run
+LastWrite Time Fri Jul 18 04:36:52 2008 (UTC)
+  Aim6: "C:\Program Files\AIM6\aim6.exe" /d locale=en-US ee://aol/imApp
+  MSMSGS: "C:\Program Files\Messenger\msmsgs.exe" /background
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunOnce not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunServices not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunServicesOnce not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunOnce not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+Run value not found.
+run value not found.
+load value = 
+----------------------------------------
+user_win v.20080415
+(NTUSER.DAT)  -- 
+
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+LastWrite Time Sun Jul  6 06:11:23 2008 (UTC)
+
+load value = 
+*Should be blank; anything listed gets run when the user logs in.
+----------------------------------------
+utorrent v20180615 (Shows uTorrent client install path, version and Unique ID of computer)
+  Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent not found.
+  Software\BitTorrent not found.
+----------------------------------------
+vawtrak v.20131010
+Checks for possible VawTrak infection
+
+Software\Microsoft\Windows\CurrentVersion\Run
+LastWrite Time Fri Jul 18 04:36:52 2008 (UTC)
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run not found.
+
+Final Score: 0/4 checks succeeded.
+----------------------------------------
+vista_bitbucket v.20080420
+(NTUSER.DAT) Get BitBucket settings from Vista via NTUSER.DAT
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket
+LastWrite Time Fri Jul 11 18:00:56 2008 (UTC)
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket has no values.
+
+Could not access Software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume subkey.
+----------------------------------------
+vmplayer v.20110204
+(NTUSER.DAT) Extracts full filepath for recent VMware Player VM images.
+
+Software\VMware, Inc.\VMware Player\VMplayer\Window position not found.
+
+----------------------------------------
+vmware_vsphere_client v.20110204
+(NTUSER.DAT) Extract recent connections list for VMware vSphere Client.
+
+Software\VMware\Virtual Infrastructure Client\Preferences\UI\ClientsXml not found.
+Software\VMware\VMware Infrastructure Client\Preferences not found.
+
+----------------------------------------
+vnchookapplicationprefs v.20110208
+(NTUSER.DAT) Get VNCHooks Application Prefs list
+
+Software\ORL\VNCHooks\Application_Prefs not found.
+----------------------------------------
+vncviewer v.20121231
+(NTUSER.DAT) Get VNCViewer system list
+
+Software\ORL\VNCviewer\MRU not found.
+Software\RealVNC\VNCViewer4\MRU not found.
+----------------------------------------
+wallpaper v.200800810
+(NTUSER.DAT) Parses Wallpaper MRU Entries
+
+wallpaper
+Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpaper\MRU
+LastWrite Time Sun Jul  6 08:01:01 2008 (UTC)
+
+42 -> C:\Documents and Settings\All Users\Documents\My Pictures\Sample Pictures\Winter.jpg
+41 -> C:\Documents and Settings\All Users\Documents\My Pictures\Sample Pictures\Water lilies.jpg
+40 -> C:\Documents and Settings\All Users\Documents\My Pictures\Sample Pictures\Sunset.jpg
+39 -> C:\Documents and Settings\All Users\Documents\My Pictures\Sample Pictures\Blue hills.jpg
+38 -> C:\Documents and Settings\Jean\My Documents\My Pictures\t1soft.flipflops.jpg
+37 -> C:\Documents and Settings\Jean\My Documents\My Pictures\LightBlueTop.gif
+36 -> C:\Documents and Settings\Jean\My Documents\My Pictures\art.fireworks.kaal.jpeg
+35 -> C:\Documents and Settings\Jean\My Documents\My Pictures\art.balloonman.jpeg
+34 -> C:\Documents and Settings\Jean\My Documents\My Pictures\art.balloon2007.jpeg
+33 -> C:\Documents and Settings\Jean\My Documents\My Pictures\art.balloon.jpeg
+32 -> C:\WINDOWS\Web\Wallpaper\Windows XP.jpg
+31 -> C:\WINDOWS\Web\Wallpaper\Wind.jpg
+30 -> C:\WINDOWS\Web\Wallpaper\Vortec space.jpg
+29 -> C:\WINDOWS\Web\Wallpaper\Tulips.jpg
+28 -> C:\WINDOWS\Web\Wallpaper\Stonehenge.jpg
+27 -> C:\WINDOWS\Web\Wallpaper\Ripple.jpg
+26 -> C:\WINDOWS\Web\Wallpaper\Red moon desert.jpg
+25 -> C:\WINDOWS\Web\Wallpaper\Radiance.jpg
+24 -> C:\WINDOWS\Web\Wallpaper\Purple flower.jpg
+23 -> C:\WINDOWS\Web\Wallpaper\Power.jpg
+22 -> C:\WINDOWS\Web\Wallpaper\Peace.jpg
+21 -> C:\WINDOWS\Web\Wallpaper\Moon flower.jpg
+20 -> C:\WINDOWS\Web\Wallpaper\Home.jpg
+19 -> C:\WINDOWS\Web\Wallpaper\Friend.jpg
+18 -> C:\WINDOWS\Web\Wallpaper\Follow.jpg
+17 -> C:\WINDOWS\Web\Wallpaper\Crystal.jpg
+16 -> C:\WINDOWS\Web\Wallpaper\Bliss.bmp
+15 -> C:\WINDOWS\Web\Wallpaper\Azul.jpg
+14 -> C:\WINDOWS\Web\Wallpaper\Autumn.jpg
+13 -> C:\WINDOWS\Web\Wallpaper\Ascent.jpg
+12 -> C:\WINDOWS\Zapotec.bmp
+11 -> C:\WINDOWS\winnt256.bmp
+10 -> C:\WINDOWS\winnt.bmp
+9 -> C:\WINDOWS\Soap Bubbles.bmp
+8 -> C:\WINDOWS\Santa Fe Stucco.bmp
+7 -> C:\WINDOWS\River Sumida.bmp
+6 -> C:\WINDOWS\Rhododendron.bmp
+5 -> C:\WINDOWS\Prairie Wind.bmp
+4 -> C:\WINDOWS\Greenstone.bmp
+3 -> C:\WINDOWS\Gone Fishing.bmp
+2 -> C:\WINDOWS\FeatherTexture.bmp
+1 -> C:\WINDOWS\Coffee Bean.bmp
+0 -> C:\WINDOWS\Blue Lace 16.bmp
+----------------------------------------
+warcraft3 v.20110202
+(NTUSER.DAT) Extract usernames for Warcraft 3.
+
+Software\Blizzard Entertainment\Warcraft III\String not found.
+
+----------------------------------------
+winlogon_u v.20130425
+(NTUSER.DAT) Get values from the user's WinLogon key
+
+Software\Microsoft\Windows NT\CurrentVersion\Winlogon
+LastWrite Time Sun Jul  6 07:38:43 2008 (UTC)
+  ParseAutoexec = 1
+  BuildNumber = 2600
+  ExcludeProfileDirs = Local Settings;Temporary Internet Files;History;Temp;Local Settings\Application Data\Microsoft\Outlook
+
+Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon not found.
+Analysis Tip: Existence of RunGrpConv = 1 value may indicate that the
+  system had been infected with Bredolab (Symantec).  Also, check the
+  contents of a "shell" value - should only include Explorer.exe, if
+  it exists.
+----------------------------------------
+winrar v.20080819
+(NTUSER.DAT) Get WinRAR\ArcHistory entries
+
+Software\WinRAR\ArcHistory not found.
+----------------------------------------
+winrar2 v.20150820
+(NTUSER.DAT) Get WinRAR\ArcHistory, WinRAR\DialogEditHistory\ArcName, WinRAR\DialogEditHistory\ExtrPath entries
+
+---------------------------------------------------------------------------------
+Software\WinRAR\ArcHistory not found.
+Analysis Tip: The values relate to the recently accessed files using the WinRAR program.
+---------------------------------------------------------------------------------
+
+Software\WinRAR\DialogEditHistory\ArcName not found.
+Analysis Tip: The values relate to the dropdown list in the "Add" menu. As a result this can used to determine the file name (and sometimes path) of a file that has been appended or created.
+---------------------------------------------------------------------------------
+
+Software\WinRAR\DialogEditHistory\ExtrPath not found.
+Analysis Tip: These values relate to the dropdown list in the "Extract" menu. They show where a compressed file was extracted to.
+----------------------------------------
+winspc v.20140203
+(NTUSER.DAT) Gets user's WinSCP 2 data
+
+Software\Martin Prikryl\WinSCP 2 not found.
+----------------------------------------
+winscp_sessions v.20120809
+(NTUSER.DAT) Extracts WinSCP stored session data
+
+"Software\Martin Prikryl\WinSCP 2\Sessions" does not exist
+----------------------------------------
+winvnc v.20110202
+(NTUSER.DAT) Extracts the encrypted password for WinVNC.
+
+Software\ORL\WinVNC3 not found.
+Software\ORL\WinVNC3\Default not found.
+Software\ORL\WinVNC\Default not found.
+Software\RealVNC\WinVNC4 not found.
+Software\RealVNC\Default not found.
+
+----------------------------------------
+winzip v.20140730
+(NTUSER.DAT) Get WinZip extract and filemenu values
+
+Software\Nico Mak Computing\WinZip not found.
+----------------------------------------
+wordwheelquery v.20100330
+(NTUSER.DAT) Gets contents of user's WordWheelQuery key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\WordWheelQuery not found.
+----------------------------------------
+yahoo_cu v.20101219
+(NTUSER.DAT) Yahoo Messenger parser
+
+Software\Yahoo\pager not found.
+----------------------------------------
+ALERT: user_run: Poss. ADS found in path: "C:\Program Files\AIM6\aim6.exe" /d locale=en-US ee://aol/imApp
